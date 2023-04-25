@@ -1,3 +1,7 @@
 body {
     background-color: hsl(202, 88%, 29%);
 }
+h2 {
+color: blue;
+font-size: 50px;
+}
